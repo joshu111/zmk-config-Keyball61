@@ -93,7 +93,7 @@ layers:
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&kb INS'
+  - INS
   - KP 4
   - KP 5
   - KP 6
